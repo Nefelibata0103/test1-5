@@ -19,7 +19,7 @@
 
          原因：jdk版本为8可能太低了。
 
-         <img src="./img/image-20230413211937634.png" alt="image-20230413211937634" style="zoom:33%;" />
+         ![image](https://github.com/Nefelibata0103/2020-/assets/131474595/119c203e-8940-4ece-9da1-f5a4b10a9df1)
 
       <img src="./img/image-20230413212026188.png" alt="image-20230413212026188" style="zoom:33%;" />
 
