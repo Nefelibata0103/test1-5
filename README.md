@@ -11,7 +11,7 @@
 
          解决方案：卸载原来的intel x86，然后再进行安装，但是还会报错，接着打开Windows虚拟平台，成功解决
 
-         <img src="./img/image-20230413212546314.png" alt="image-20230413212546314" style="zoom:33%;" />
+         ![image](https://github.com/Nefelibata0103/2020-/assets/131474595/3509c2c8-0cfa-451a-8efb-43c2a96958f2)
 
 
 
