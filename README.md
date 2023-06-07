@@ -21,11 +21,12 @@
 
          ![image](https://github.com/Nefelibata0103/2020-/assets/131474595/119c203e-8940-4ece-9da1-f5a4b10a9df1)
 
-      ![image](https://github.com/Nefelibata0103/2020-/assets/131474595/ecd7e25c-78b0-4fb5-bec9-fafe2135e7e3)
+      (https://github.com/Nefelibata0103/2020-/assets/131474595/ecd7e25c-78b0-4fb5-bec9-fafe2135e7e3)
 
       将jdk版本改到11
 
-      <img src="./img/image-20230413212154685.png" alt="image-20230413212154685" style="zoom:33%;" />
+      ![UD2591 8LQFAF}R`VG1Q`$V](https://github.com/Nefelibata0103/2020-/assets/131474595/38e3d6f2-8833-47ed-89e9-a01db84abcb3)
+
 
 
 
@@ -34,4 +35,10 @@
 
 + 安装后运行截图
 
-<img src="./img/image-20230409205621510.png" alt="image-20230409205621510" style="zoom:33%;" />
+![}~%7LDKS(G2 NS(TDK4RD~U](https://github.com/Nefelibata0103/2020-/assets/131474595/07256abe-7085-4eb8-bed7-e31a3c39b617)
+![GLAK~$(6Y~2%%J4@VC ~0`5](https://github.com/Nefelibata0103/2020-/assets/131474595/4ed5d976-c243-4190-bd46-8ae9269c7361)
+![CI IG%5L~R%F{A)BJQG C~7](https://github.com/Nefelibata0103/2020-/assets/131474595/ad4678c8-0240-4c48-8887-5ab76c76aa54)
+![~7ZN29`TG2{I82)9(IBU@YF](https://github.com/Nefelibata0103/2020-/assets/131474595/ac3c40b1-bfa4-4b62-96e9-9809f151e5dd)
+
+
+
