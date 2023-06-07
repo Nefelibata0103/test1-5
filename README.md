@@ -21,7 +21,7 @@
 
          ![image](https://github.com/Nefelibata0103/2020-/assets/131474595/119c203e-8940-4ece-9da1-f5a4b10a9df1)
 
-      <img src="./img/image-20230413212026188.png" alt="image-20230413212026188" style="zoom:33%;" />
+      ![image](https://github.com/Nefelibata0103/2020-/assets/131474595/ecd7e25c-78b0-4fb5-bec9-fafe2135e7e3)
 
       将jdk版本改到11
 
