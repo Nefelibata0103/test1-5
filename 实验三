@@ -1,0 +1,124 @@
+step：新建一个项目，选择basic Acitvity，然后在语言中选择kotlin
+
+<img src=“F：\AndroidWorkspace\git\softwarePractice3\Trail2\img\image-20230413214003616.png” alt=“image-20230413214003616” style=“zoom：33%;" />
+<img src=“.\img\image-20230413214003616.png” alt=“image-20230413214003616” style=“zoom：33%;" />
+
+
+
+
+
+
+
+@@ -16，7 +20，9 @@ step：新建一个项目，选择basic Acitvity，然后在语言中选择kotlin
+
+ps. 由于安装过程在实验1中进行了详细说明，这里不再说明，直接进行效果展示，展示如下：
+
+<img src=“F：\AndroidWorkspace\git\softwarePractice3\Trail2\img\image-20230413213648576.png” alt=“image-20230413213648576” style=“zoom：33%;" />
+<img src=“.\img\image-20230413213648576.png” alt=“image-20230413213648576” style=“zoom：33%;" />
+
+
+
+### 2.**探索界面布局编辑器**
+
+@@ -764，3 +770，7 @@ 私人娱乐捕获视频（） {
+
+
+
+
+
+
+
+  38 项更改：27 项新增和 11 项删除38 
+Trail3/README.md
+@@ -138，7 +138，7 @@ data.head（）
+    .dataframe tbody tr th {
+        垂直对齐：顶部;
+    }
+
+    
+    .dataframe thead th {
+        文本对齐：右;
+    }
+@@ -220，7 +220，7 @@ data.tail（）
+    .dataframe tbody tr th {
+        垂直对齐：顶部;
+    }
+
+    
+    .dataframe thead th {
+        文本对齐：右;
+    }
+@@ -353，7 +353，7 @@ data.loc[non_numberic_profits].head（）
+    .dataframe tbody tr th {
+        垂直对齐：顶部;
+    }
+
+    
+    .dataframe thead th {
+        文本对齐：右;
+    }
+@@ -439，9 +439，9 @@ bin_sizes， _， _ = plt.hist（data.year[non_numberic_profits]， bins=range（1955， 200
+```
+
+
+
+​    
+！[巴布亚新几内亚]（demo1_files/demo1_39_0.png)
+
+​    
+
+
+删除非数字记录
+@@ -510，9 +510，9 @@ plot（x， y1， ax， '500 年至 1955 年财富 2005 强公司平均利润增加）
+```
+
+
+
+​    
+
+
+​    
+
+
+收入曲线
+@@ -525，9 +525，9 @@ plot（x， y2， ax， '从 500 年到 1955 年财富 2005 强公司平均收入增加
+```
+
+
+
+​    
+
+
+​    
+
+
+公司收入曲线并没有出现急剧下降，可能是由于财务会计的处理。对数据结果进行标准差处理。
+@@ -549，11 +549，27 @@ fig.tight_layout（）
+```
+
+
+
+​    
+！[巴布亚新几内亚]（demo1_files/demo1_53_0.png)
+
+​
+
+
+## 补充vscode导出Markdown
+
+#### 首先应该先安装nbconvert
+可以使用以下命令
+```点安装nb转换```
+！[图像]（demo1_files/demo1_c_0.png)
+这里已经安装成功了。
+
+#### 安装潘多克
+可以使用以下命令
+```点安装潘多克```
+
+#### 转换
+在你要转换的文件目录下输入以下指令
+
+```jupyter nbconvert --to FORMAT（要转化的格式） （ipynb文件名）.ipynb```
+
+这里是降价
