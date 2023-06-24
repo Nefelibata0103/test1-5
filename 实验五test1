@@ -1,3 +1,6 @@
+
+实验5_1 TensorFlow Lite 模型生成
+安装相关类库
 !pip install tflite-model-maker
 Requirement already satisfied: tflite-model-maker in d:\software\anaconda3\lib\site-packages (0.3.4)
 Requirement already satisfied: lxml>=4.6.1 in d:\software\anaconda3\lib\site-packages (from tflite-model-maker) (4.6.3)
